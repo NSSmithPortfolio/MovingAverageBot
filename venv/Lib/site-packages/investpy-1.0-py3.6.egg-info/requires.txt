@@ -1,0 +1,17 @@
+Unidecode>=1.1.1
+setuptools>=41.2.0
+numpy>=1.17.2
+pandas>=0.25.1
+lxml>=4.4.1
+requests>=2.22.0
+pytz>=2019.3
+
+[docs]
+sphinx==2.4.4
+sphinx_rtd_theme==0.4.3
+recommonmark==0.6.0
+
+[tests]
+pytest
+codecov
+pytest-codecov
