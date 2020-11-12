@@ -1,5 +1,5 @@
 # MovingAverageBot
-Simple Binance.us Bot - scrapes prices for popular coins and trades with them
+Simple Binance.us Bot - scrapes prices, moving averages, and RSI for popular coins and trades with them.  Bitcoin, Etherium, NEO, XRP, BCH, EOS, DASH, IOTA, etc.  
 
 Written in Python 3.6
 
